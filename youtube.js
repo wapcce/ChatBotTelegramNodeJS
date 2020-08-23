@@ -1,5 +1,5 @@
 const YouTube = require('youtube-node');
-const keyYoutube = require('./Key.json');
+const keyYoutube = require('./tokens/Key.json');
 
 const youtube = new YouTube();
 youtube.setKey(keyYoutube.apiYoutube);
@@ -16,7 +16,7 @@ function searchVideoURL(message1, message, queryText) {
           (videoId) => `https://www.youtube.com/watch?v=${videoId}`
         );
         //resolve(`${message} ${youTubeLinks.join(',/n')}`);
-        resolve(`${message} ${youTubeLinks.join('\nE\n')}`);
+        resolve(`${message} \n${youTubeLinks.join('\nE\n')}`);
         //console.log(youTubeLinks[0]);
         //resolve(`${message} \n${youTubeLinks[0]}\nE\n${youTubeLinks[1]}`);
       } else {
