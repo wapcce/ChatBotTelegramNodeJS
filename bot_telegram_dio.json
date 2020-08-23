@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "projeto-digital-inno-one--llwv",
+  "private_key_id": "bee408c1fa06418d56ce74e39134eeaff809b061",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLlEoOIgaz1dTr\nlxnXErKF/nmTo1LtNLCG+Cu606vn7fSgcUU6prlfPA9jpg7uWdyYwSCUj2bxynxJ\nbKLXF+aX8ebvkwa0isOwIAaREmQ0vAqgQayOBc7nrITf+IZOF6PZ7yhyB/ONXrmR\nahOSpcWJf21A1ZTk8OPXjarSuYWTgMMdKbyaSpthPIK0tWK6C580IMXAEEao5OB2\nbgFP2HVExuwFGOd1eldB1KTTzAtyYTsOyLp3UskaMGrDBTKrPKZwUQH9NgO8PXG5\nBVRp4Gc8cZIwoRuVUX+3dIy51mg/GDrMyfkbU01u9H7mUIIyImAi4hm6fgUshwPK\n7Ox+sHSBAgMBAAECggEABUZhv1lAG3WLU3HqOl2KiOiJuaq6FbmfZ9XjGy+MJSGw\nLJ6WvMDwbXBq1SoKucAUFFSvvY20LQhyPTxOgVyGDfKXiWZhvniYfrYruWNUu52S\nOGoPOKxbmrrog/2mbDxWU2msHn1IgSWe0Q7itDJtqoUF3Y/TMHXx72ZFMnnaZVKd\nTGFQnEAU4cWbvMBHXF4EljAOKi1V3hvh0KBdxYoXY46zGhYF2dZYfrsW+XvUyen9\nkkWeej0v+zco+tSJEbZ8RK6UfZVr6rEVJ/yJQVtseequhc7dNbNu7x7TOz0DwbRE\nbdotD0UO2fidMeo6rIzQ6RGoxmShz3wCfJ58BJ7I4QKBgQD4OnHWywLWKzCIpHbB\nRSzFtyZUJqENnQnCKD1oCobcUv300nb1+/dnC7kSsxMb/+SGfzILLBEm5LWw/YpN\nkKxfZdRe4n2zKTVT7Tn00y2Gw8oJOpJLwyZPBZO+CRlQVTKqgf39lvUD+oDr1mOi\nW9YyvXwVLSeMzvo5sxNnN8rgEQKBgQDR8/tEfhbGKBWpUWMT23CF5slbkrAsJXck\nVZZRHHwjzfx/6Gx4/IGgKwOzqN054gqCz13jWDJHrTa0uPvmQOdNqvNBQkTC55FA\nI4rQY1IskeHKurcgY7Nbk45nmjhke5jsLYjafbx4rKGuJ+zvsxkPBH2T7jr7uv0C\n+8t60ke9cQKBgDCSfyQgpXVzDhQu2m4HMzOdGwrsZCddy0MKzLlHFgyW0MrPRCfu\nHgMz8AsQr3STJgyLZyd4gAK0TjlL43w6CwC/1Eac2yvrrFu319doW0g7l5UmuOnK\nTfy4gqh071cg1ME4npK4r0kQA5oiYWyru8ZB/b3HEC4lciFIQUu5RyGBAoGALgGx\nyNN8eBWmkYDFHj/Sy3TEIO3m7vWSwwKCOunsBgiIURsEUgq6+PcUC5VwTNPMi9eW\n8k+MTQqW10lF4bHNPca9IUq9OJx3xr9DFuD8y8l32e3KXS2byvBtnyQ7QUGYRADC\nYWZ2G1dw4nHbSLdNQW4xem4UvL6/3JyCfTqA//ECgYEAnBZ7WR34hNTKKWYkUl6j\n79ZznmlD00EmAksJW3ZhLrrG4nQ20khUw0zPIsuXhQ4aFQv8Kifnvy2fKMcu79Ib\nnB/oqqGVjs7EhLVG/PjvmmdGTTWDYZC7aKwXMgKPMCgb03ydOUtOcF9GUhmFmr9Z\n9xvgBtPvWHxXD+cnzCOBFEc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-khpwth@projeto-digital-inno-one--llwv.iam.gserviceaccount.com",
+  "client_id": "118202657917354041066",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-khpwth%40projeto-digital-inno-one--llwv.iam.gserviceaccount.com"
+}
